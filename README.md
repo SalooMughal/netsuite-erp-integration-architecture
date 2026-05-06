@@ -260,5 +260,5 @@ production books. Two weeks of shadow mode is worth months of incident recovery.
 
 **Salman Saleem** — Senior Backend Engineer
 - 📧 saloomughal789@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/muhammad-salman-saleem-9b79a6142)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-salman-saleem-9b79a6142)
 - 🌍 Open to remote opportunities worldwide
